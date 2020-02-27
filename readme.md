@@ -1,0 +1,1 @@
+My Max patches from the Notam MaxMSP course @ http://www.notam02.no/web/programmering-lyd-og-bilde-i-max/

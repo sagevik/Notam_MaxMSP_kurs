@@ -2,8 +2,8 @@
 	"name" : "Final_project",
 	"version" : 1,
 	"creationdate" : 3667160720,
-	"modificationdate" : 3667161950,
-	"viewrect" : [ 2.0, 84.0, 300.0, 500.0 ],
+	"modificationdate" : 3667233470,
+	"viewrect" : [ 50.0, 83.0, 618.0, 607.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -57,6 +57,49 @@
 			}
 
 		}
+,
+		"media" : 		{
+			"808ConLow.WAV" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"808ConMid.WAV" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"808Hat.WAV" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"808Kick.WAV" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"808Snr.WAV" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"808TomHi.WAV" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"808TomLow.WAV" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"808TomMid.WAV" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+
+		}
 
 	}
 ,
@@ -68,7 +111,7 @@
 
 	}
 ,
-	"detailsvisible" : 0,
+	"detailsvisible" : 1,
 	"amxdtype" : 1633771873,
 	"readonly" : 0,
 	"devpathtype" : 0,

@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 174.0, 134.0, 1833.0, 1231.0 ],
+		"rect" : [ 887.0, 78.0, 1639.0, 1327.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -39,13 +39,38 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-68",
-					"maxclass" : "newobj",
-					"numinlets" : 0,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 1364.0, 5351.890077024698257, 43.0, 22.0 ],
-					"text" : "r mute"
+					"id" : "obj-72",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1864.0, 139.806748479604721, 384.0, 20.0 ],
+					"text" : "Use more abstractions for similar objects"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-70",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1864.0, 170.806748479604721, 382.0, 33.0 ],
+					"presentation_linecount" : 2,
+					"text" : "Try to make a whole track an abstraction (both logic and gui), to easily be able to add tracks"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-69",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1864.0, 99.806748479604721, 382.0, 33.0 ],
+					"presentation_linecount" : 2,
+					"text" : "Check direction/sync.\nSomething off when switching between forward/backward/pingpong"
 				}
 
 			}
@@ -159,12 +184,11 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-37",
-					"linecount" : 4,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1868.0, 70.806748479604721, 208.0, 60.0 ],
-					"text" : "TODO:\nCheck direction/sync.\nSomething off when switching between forward/backward/pingpong"
+					"patching_rect" : [ 1864.0, 73.806748479604721, 382.0, 20.0 ],
+					"text" : "TODO:"
 				}
 
 			}
@@ -3456,7 +3480,7 @@
 					"patching_rect" : [ 71.099707774817944, 4915.47348341345787, 154.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 32.099707774817944, 654.806748479604721, 154.0, 20.0 ],
-					"text" : "DA24 Perc 02.wav",
+					"text" : "--",
 					"textcolor" : [ 0.764705882352941, 0.874509803921569, 0.890196078431372, 1.0 ],
 					"textjustification" : 2
 				}
@@ -7517,7 +7541,7 @@
 					"patching_rect" : [ 71.099707774817944, 4331.140133112668991, 154.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 32.099707774817944, 594.806748479604721, 154.0, 20.0 ],
-					"text" : "DA24 Perc 01.wav",
+					"text" : "--",
 					"textcolor" : [ 0.764705882352941, 0.874509803921569, 0.890196078431372, 1.0 ],
 					"textjustification" : 2
 				}
@@ -11578,7 +11602,7 @@
 					"patching_rect" : [ 71.099707774817944, 3741.473449319601059, 154.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 32.099707774817944, 534.806748479604721, 154.0, 20.0 ],
-					"text" : "DA24 Rim.wav",
+					"text" : "--",
 					"textcolor" : [ 0.764705882352941, 0.874509803921569, 0.890196078431372, 1.0 ],
 					"textjustification" : 2
 				}
@@ -15639,7 +15663,7 @@
 					"patching_rect" : [ 71.099707774817944, 3151.806765526533127, 154.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 32.099707774817944, 474.806748479604721, 154.0, 20.0 ],
-					"text" : "DA24 Casa.wav",
+					"text" : "--",
 					"textcolor" : [ 0.764705882352941, 0.874509803921569, 0.890196078431372, 1.0 ],
 					"textjustification" : 2
 				}
@@ -19700,7 +19724,7 @@
 					"patching_rect" : [ 71.099707774817944, 2564.806748479604721, 154.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 32.099707774817944, 414.806748479604721, 154.0, 20.0 ],
-					"text" : "DA24 Clap.wav",
+					"text" : "--",
 					"textcolor" : [ 0.764705882352941, 0.874509803921569, 0.890196078431372, 1.0 ],
 					"textjustification" : 2
 				}
@@ -23761,7 +23785,7 @@
 					"patching_rect" : [ 71.099707774817944, 1976.806748479604721, 154.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 32.099707774817944, 354.806748479604721, 154.0, 20.0 ],
-					"text" : "DA24 Hat 02.wav",
+					"text" : "--",
 					"textcolor" : [ 0.764705882352941, 0.874509803921569, 0.890196078431372, 1.0 ],
 					"textjustification" : 2
 				}
@@ -27822,7 +27846,7 @@
 					"patching_rect" : [ 71.099707774817944, 1390.806748479604721, 154.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 32.099707774817944, 294.806748479604721, 154.0, 20.0 ],
-					"text" : "DA24 Snare 02.wav",
+					"text" : "--",
 					"textcolor" : [ 0.764705882352941, 0.874509803921569, 0.890196078431372, 1.0 ],
 					"textjustification" : 2
 				}
@@ -28831,7 +28855,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 637.0, 736.0, 640.0, 480.0 ],
+						"rect" : [ 637.0, 736.0, 718.0, 480.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -28858,7 +28882,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-4",
@@ -29614,7 +29637,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 1838.0, 819.0, 640.0, 480.0 ],
+						"rect" : [ 753.0, 663.0, 640.0, 480.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -32044,7 +32067,7 @@
 					"patching_rect" : [ 71.099707774817944, 805.806748479604721, 154.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 32.099707774817944, 234.806748479604721, 154.0, 20.0 ],
-					"text" : "DA24 Kick 01.wav",
+					"text" : "--",
 					"textcolor" : [ 0.764705882352941, 0.874509803921569, 0.890196078431372, 1.0 ],
 					"textjustification" : 2
 				}

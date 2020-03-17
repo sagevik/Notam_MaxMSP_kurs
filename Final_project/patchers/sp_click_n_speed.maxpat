@@ -248,11 +248,11 @@
 					"comment" : "Speed_multiplier",
 					"hint" : "Speed_multiplier",
 					"id" : "obj-68",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 320.0, 40.000010671633731, 30.0, 30.0 ]
 				}
 
@@ -263,7 +263,7 @@
 					"comment" : "Reset_counter",
 					"hint" : "Reset_counter",
 					"id" : "obj-70",
-					"index" : 2,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -277,7 +277,7 @@
 					"comment" : "Bang_counter",
 					"hint" : "Bang_counter",
 					"id" : "obj-72",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -451,7 +451,9 @@
 				}
 
 			}
- ]
+ ],
+		"dependency_cache" : [  ],
+		"autosave" : 0
 	}
 
 }

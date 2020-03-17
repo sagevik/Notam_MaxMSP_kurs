@@ -2,7 +2,7 @@
 	"name" : "Final_project",
 	"version" : 1,
 	"creationdate" : 3667160720,
-	"modificationdate" : 3667233470,
+	"modificationdate" : 3667336770,
 	"viewrect" : [ 50.0, 83.0, 618.0, 607.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -111,7 +111,7 @@
 
 	}
 ,
-	"detailsvisible" : 1,
+	"detailsvisible" : 0,
 	"amxdtype" : 1633771873,
 	"readonly" : 0,
 	"devpathtype" : 0,

@@ -199,11 +199,11 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-133",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 50.0, 40.0, 30.0, 30.0 ]
 				}
 
@@ -212,11 +212,11 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-135",
-					"index" : 3,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "float" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 478.5, 40.0, 30.0, 30.0 ]
 				}
 
@@ -225,11 +225,11 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-136",
-					"index" : 2,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "float" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 261.0, 40.0, 30.0, 30.0 ]
 				}
 
@@ -238,7 +238,7 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-139",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -252,7 +252,7 @@
 					"comment" : "Playhead_endpoint",
 					"hint" : "Playhead_endpoint",
 					"id" : "obj-140",
-					"index" : 2,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -396,7 +396,9 @@
 				}
 
 			}
- ]
+ ],
+		"dependency_cache" : [  ],
+		"autosave" : 0
 	}
 
 }

@@ -123,7 +123,7 @@
 					"comment" : "Sample_startpoint",
 					"hint" : "Sample_startpoint",
 					"id" : "obj-127",
-					"index" : 2,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
@@ -138,11 +138,11 @@
 					"comment" : "Trigger_playhead",
 					"hint" : "Trigger_playhead",
 					"id" : "obj-128",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 55.0, 40.0, 30.0, 30.0 ]
 				}
 
@@ -153,7 +153,7 @@
 					"comment" : "Sample_endpoint",
 					"hint" : "Sample_endpoint",
 					"id" : "obj-129",
-					"index" : 3,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
@@ -166,7 +166,7 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-131",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -231,7 +231,9 @@
 				}
 
 			}
- ]
+ ],
+		"dependency_cache" : [  ],
+		"autosave" : 0
 	}
 
 }

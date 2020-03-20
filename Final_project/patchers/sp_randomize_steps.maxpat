@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 372.0, 783.0, 640.0, 480.0 ],
+		"rect" : [ 390.0, 694.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -44,7 +44,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "bang" ],
-					"patching_rect" : [ 50.0, 109.5, 32.0, 22.0 ],
+					"patching_rect" : [ 50.0, 97.5, 32.0, 22.0 ],
 					"text" : "t b b"
 				}
 
@@ -199,6 +199,7 @@
 		"lines" : [ 			{
 				"patchline" : 				{
 					"destination" : [ "obj-58", 1 ],
+					"midpoints" : [ 116.214724153280258, 156.0, 81.5, 156.0 ],
 					"source" : [ "obj-1", 0 ]
 				}
 

@@ -3609,7 +3609,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 872.5, 4928.500050663948059, 181.0, 22.0 ],
-					"text" : "sp_sample_play_control.maxpat"
+					"text" : "sp_sample_play_control"
 				}
 
 			}
@@ -3621,7 +3621,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"patching_rect" : [ 687.5, 4928.500050663948059, 162.0, 22.0 ],
-					"text" : "sp_sample_endpoint.maxpat"
+					"text" : "sp_sample_endpoint"
 				}
 
 			}
@@ -3633,7 +3633,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 246.829754561185837, 4947.000050663948059, 162.0, 22.0 ],
-					"text" : "sp_control_playhead.maxpat"
+					"text" : "sp_control_playhead"
 				}
 
 			}
@@ -3645,7 +3645,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 318.329754561185837, 4863.80679914355278, 273.970245438814118, 22.0 ],
-					"text" : "sp_sample_startpoint.maxpat"
+					"text" : "sp_sample_startpoint"
 				}
 
 			}
@@ -3657,7 +3657,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 460.5, 4724.000050663948059, 165.0, 22.0 ],
-					"text" : "sp_waveform_modes.maxpat"
+					"text" : "sp_waveform_modes"
 				}
 
 			}
@@ -3669,7 +3669,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 775.5, 4675.000050663948059, 181.0, 22.0 ],
-					"text" : "sp_randomize_steps.maxpat"
+					"text" : "sp_randomize_steps"
 				}
 
 			}
@@ -3681,7 +3681,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
 					"patching_rect" : [ 1621.793478190898895, 4679.000050663948059, 151.0, 22.0 ],
-					"text" : "sp_count_n_swing.maxpat"
+					"text" : "sp_count_n_swing"
 				}
 
 			}
@@ -3693,7 +3693,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 1621.793478190898895, 4629.000050663948059, 147.0, 22.0 ],
-					"text" : "sp_click_n_speed.maxpat"
+					"text" : "sp_click_n_speed"
 				}
 
 			}
@@ -4860,7 +4860,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 872.5, 4347.500050663948059, 181.0, 22.0 ],
-					"text" : "sp_sample_play_control.maxpat"
+					"text" : "sp_sample_play_control"
 				}
 
 			}
@@ -4872,7 +4872,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"patching_rect" : [ 687.5, 4347.500050663948059, 162.0, 22.0 ],
-					"text" : "sp_sample_endpoint.maxpat"
+					"text" : "sp_sample_endpoint"
 				}
 
 			}
@@ -4884,7 +4884,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 246.829754561185837, 4366.000050663948059, 162.0, 22.0 ],
-					"text" : "sp_control_playhead.maxpat"
+					"text" : "sp_control_playhead"
 				}
 
 			}
@@ -4896,7 +4896,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 318.329754561185837, 4282.80679914355278, 273.970245438814118, 22.0 ],
-					"text" : "sp_sample_startpoint.maxpat"
+					"text" : "sp_sample_startpoint"
 				}
 
 			}
@@ -4908,7 +4908,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 460.5, 4143.000050663948059, 165.0, 22.0 ],
-					"text" : "sp_waveform_modes.maxpat"
+					"text" : "sp_waveform_modes"
 				}
 
 			}
@@ -4920,7 +4920,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 775.5, 4094.000050663948059, 181.0, 22.0 ],
-					"text" : "sp_randomize_steps.maxpat"
+					"text" : "sp_randomize_steps"
 				}
 
 			}
@@ -4932,7 +4932,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
 					"patching_rect" : [ 1621.793478190898895, 4098.000050663948059, 151.0, 22.0 ],
-					"text" : "sp_count_n_swing.maxpat"
+					"text" : "sp_count_n_swing"
 				}
 
 			}
@@ -4944,7 +4944,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 1621.793478190898895, 4048.000050663948059, 147.0, 22.0 ],
-					"text" : "sp_click_n_speed.maxpat"
+					"text" : "sp_click_n_speed"
 				}
 
 			}
@@ -6111,7 +6111,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 872.5, 3768.500050663948059, 181.0, 22.0 ],
-					"text" : "sp_sample_play_control.maxpat"
+					"text" : "sp_sample_play_control"
 				}
 
 			}
@@ -6123,7 +6123,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"patching_rect" : [ 687.5, 3768.500050663948059, 162.0, 22.0 ],
-					"text" : "sp_sample_endpoint.maxpat"
+					"text" : "sp_sample_endpoint"
 				}
 
 			}
@@ -6135,7 +6135,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 246.829754561185837, 3787.000050663948059, 162.0, 22.0 ],
-					"text" : "sp_control_playhead.maxpat"
+					"text" : "sp_control_playhead"
 				}
 
 			}
@@ -6147,7 +6147,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 318.329754561185837, 3703.80679914355278, 273.970245438814118, 22.0 ],
-					"text" : "sp_sample_startpoint.maxpat"
+					"text" : "sp_sample_startpoint"
 				}
 
 			}
@@ -6159,7 +6159,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 460.5, 3564.000050663948059, 165.0, 22.0 ],
-					"text" : "sp_waveform_modes.maxpat"
+					"text" : "sp_waveform_modes"
 				}
 
 			}
@@ -6171,7 +6171,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 775.5, 3515.000050663948059, 181.0, 22.0 ],
-					"text" : "sp_randomize_steps.maxpat"
+					"text" : "sp_randomize_steps"
 				}
 
 			}
@@ -6183,7 +6183,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
 					"patching_rect" : [ 1621.793478190898895, 3519.000050663948059, 151.0, 22.0 ],
-					"text" : "sp_count_n_swing.maxpat"
+					"text" : "sp_count_n_swing"
 				}
 
 			}
@@ -6195,7 +6195,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 1621.793478190898895, 3469.000050663948059, 147.0, 22.0 ],
-					"text" : "sp_click_n_speed.maxpat"
+					"text" : "sp_click_n_speed"
 				}
 
 			}
@@ -7362,7 +7362,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 872.5, 3189.500050663948059, 181.0, 22.0 ],
-					"text" : "sp_sample_play_control.maxpat"
+					"text" : "sp_sample_play_control"
 				}
 
 			}
@@ -7374,7 +7374,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"patching_rect" : [ 687.5, 3189.500050663948059, 162.0, 22.0 ],
-					"text" : "sp_sample_endpoint.maxpat"
+					"text" : "sp_sample_endpoint"
 				}
 
 			}
@@ -7386,7 +7386,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 246.829754561185837, 3208.000050663948059, 162.0, 22.0 ],
-					"text" : "sp_control_playhead.maxpat"
+					"text" : "sp_control_playhead"
 				}
 
 			}
@@ -7398,7 +7398,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 318.329754561185837, 3124.80679914355278, 273.970245438814118, 22.0 ],
-					"text" : "sp_sample_startpoint.maxpat"
+					"text" : "sp_sample_startpoint"
 				}
 
 			}
@@ -7410,7 +7410,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 460.5, 2985.000050663948059, 165.0, 22.0 ],
-					"text" : "sp_waveform_modes.maxpat"
+					"text" : "sp_waveform_modes"
 				}
 
 			}
@@ -7422,7 +7422,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 775.5, 2936.000050663948059, 181.0, 22.0 ],
-					"text" : "sp_randomize_steps.maxpat"
+					"text" : "sp_randomize_steps"
 				}
 
 			}
@@ -7434,7 +7434,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
 					"patching_rect" : [ 1621.793478190898895, 2940.000050663948059, 151.0, 22.0 ],
-					"text" : "sp_count_n_swing.maxpat"
+					"text" : "sp_count_n_swing"
 				}
 
 			}
@@ -7446,7 +7446,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 1621.793478190898895, 2890.000050663948059, 147.0, 22.0 ],
-					"text" : "sp_click_n_speed.maxpat"
+					"text" : "sp_click_n_speed"
 				}
 
 			}
@@ -8613,7 +8613,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 872.5, 2609.500050663948059, 181.0, 22.0 ],
-					"text" : "sp_sample_play_control.maxpat"
+					"text" : "sp_sample_play_control"
 				}
 
 			}
@@ -8625,7 +8625,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"patching_rect" : [ 687.5, 2609.500050663948059, 162.0, 22.0 ],
-					"text" : "sp_sample_endpoint.maxpat"
+					"text" : "sp_sample_endpoint"
 				}
 
 			}
@@ -8637,7 +8637,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 246.829754561185837, 2628.000050663948059, 162.0, 22.0 ],
-					"text" : "sp_control_playhead.maxpat"
+					"text" : "sp_control_playhead"
 				}
 
 			}
@@ -8649,7 +8649,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 318.329754561185837, 2544.80679914355278, 273.970245438814118, 22.0 ],
-					"text" : "sp_sample_startpoint.maxpat"
+					"text" : "sp_sample_startpoint"
 				}
 
 			}
@@ -8661,7 +8661,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 460.5, 2405.000050663948059, 165.0, 22.0 ],
-					"text" : "sp_waveform_modes.maxpat"
+					"text" : "sp_waveform_modes"
 				}
 
 			}
@@ -8673,7 +8673,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 775.5, 2356.000050663948059, 181.0, 22.0 ],
-					"text" : "sp_randomize_steps.maxpat"
+					"text" : "sp_randomize_steps"
 				}
 
 			}
@@ -8685,7 +8685,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
 					"patching_rect" : [ 1621.793478190898895, 2360.000050663948059, 151.0, 22.0 ],
-					"text" : "sp_count_n_swing.maxpat"
+					"text" : "sp_count_n_swing"
 				}
 
 			}
@@ -8697,7 +8697,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 1621.793478190898895, 2310.000050663948059, 147.0, 22.0 ],
-					"text" : "sp_click_n_speed.maxpat"
+					"text" : "sp_click_n_speed"
 				}
 
 			}
@@ -9864,7 +9864,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 872.5, 2027.833367109298706, 181.0, 22.0 ],
-					"text" : "sp_sample_play_control.maxpat"
+					"text" : "sp_sample_play_control"
 				}
 
 			}
@@ -9876,7 +9876,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"patching_rect" : [ 687.5, 2027.833367109298706, 162.0, 22.0 ],
-					"text" : "sp_sample_endpoint.maxpat"
+					"text" : "sp_sample_endpoint"
 				}
 
 			}
@@ -9888,7 +9888,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 246.829754561185837, 2046.333367109298706, 162.0, 22.0 ],
-					"text" : "sp_control_playhead.maxpat"
+					"text" : "sp_control_playhead"
 				}
 
 			}
@@ -9900,7 +9900,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 318.329754561185837, 1963.140115588903427, 273.970245438814118, 22.0 ],
-					"text" : "sp_sample_startpoint.maxpat"
+					"text" : "sp_sample_startpoint"
 				}
 
 			}
@@ -9912,7 +9912,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 460.5, 1823.333367109298706, 165.0, 22.0 ],
-					"text" : "sp_waveform_modes.maxpat"
+					"text" : "sp_waveform_modes"
 				}
 
 			}
@@ -9924,7 +9924,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 775.5, 1774.333367109298706, 181.0, 22.0 ],
-					"text" : "sp_randomize_steps.maxpat"
+					"text" : "sp_randomize_steps"
 				}
 
 			}
@@ -9936,7 +9936,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
 					"patching_rect" : [ 1621.793478190898895, 1778.333367109298706, 151.0, 22.0 ],
-					"text" : "sp_count_n_swing.maxpat"
+					"text" : "sp_count_n_swing"
 				}
 
 			}
@@ -9948,7 +9948,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 1621.793478190898895, 1728.333367109298706, 147.0, 22.0 ],
-					"text" : "sp_click_n_speed.maxpat"
+					"text" : "sp_click_n_speed"
 				}
 
 			}
@@ -11115,7 +11115,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 872.5, 1444.83335018157959, 181.0, 22.0 ],
-					"text" : "sp_sample_play_control.maxpat"
+					"text" : "sp_sample_play_control"
 				}
 
 			}
@@ -11127,7 +11127,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"patching_rect" : [ 687.5, 1444.83335018157959, 162.0, 22.0 ],
-					"text" : "sp_sample_endpoint.maxpat"
+					"text" : "sp_sample_endpoint"
 				}
 
 			}
@@ -11139,7 +11139,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 246.829754561185837, 1463.33335018157959, 162.0, 22.0 ],
-					"text" : "sp_control_playhead.maxpat"
+					"text" : "sp_control_playhead"
 				}
 
 			}
@@ -11151,7 +11151,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 318.329754561185837, 1380.140098661184311, 273.970245438814118, 22.0 ],
-					"text" : "sp_sample_startpoint.maxpat"
+					"text" : "sp_sample_startpoint"
 				}
 
 			}
@@ -11163,7 +11163,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 460.5, 1240.33335018157959, 165.0, 22.0 ],
-					"text" : "sp_waveform_modes.maxpat"
+					"text" : "sp_waveform_modes"
 				}
 
 			}
@@ -11175,7 +11175,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 775.5, 1191.33335018157959, 181.0, 22.0 ],
-					"text" : "sp_randomize_steps.maxpat"
+					"text" : "sp_randomize_steps"
 				}
 
 			}
@@ -11187,7 +11187,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
 					"patching_rect" : [ 1621.793478190898895, 1195.33335018157959, 151.0, 22.0 ],
-					"text" : "sp_count_n_swing.maxpat"
+					"text" : "sp_count_n_swing"
 				}
 
 			}
@@ -11199,7 +11199,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 1621.793478190898895, 1145.33335018157959, 147.0, 22.0 ],
-					"text" : "sp_click_n_speed.maxpat"
+					"text" : "sp_click_n_speed"
 				}
 
 			}
@@ -12366,7 +12366,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 872.5, 864.5, 181.0, 22.0 ],
-					"text" : "sp_sample_play_control.maxpat"
+					"text" : "sp_sample_play_control"
 				}
 
 			}
@@ -12378,7 +12378,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"patching_rect" : [ 687.5, 864.5, 162.0, 22.0 ],
-					"text" : "sp_sample_endpoint.maxpat"
+					"text" : "sp_sample_endpoint"
 				}
 
 			}
@@ -12390,7 +12390,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 246.829754561185837, 883.0, 162.0, 22.0 ],
-					"text" : "sp_control_playhead.maxpat"
+					"text" : "sp_control_playhead"
 				}
 
 			}
@@ -12402,7 +12402,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 318.329754561185837, 799.806748479604721, 273.970245438814118, 22.0 ],
-					"text" : "sp_sample_startpoint.maxpat"
+					"text" : "sp_sample_startpoint"
 				}
 
 			}
@@ -12414,7 +12414,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 460.5, 660.0, 165.0, 22.0 ],
-					"text" : "sp_waveform_modes.maxpat"
+					"text" : "sp_waveform_modes"
 				}
 
 			}
@@ -12426,7 +12426,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 775.5, 611.0, 181.0, 22.0 ],
-					"text" : "sp_randomize_steps.maxpat"
+					"text" : "sp_randomize_steps"
 				}
 
 			}
@@ -12438,7 +12438,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
 					"patching_rect" : [ 1621.793478190898895, 615.0, 151.0, 22.0 ],
-					"text" : "sp_count_n_swing.maxpat"
+					"text" : "sp_count_n_swing"
 				}
 
 			}
@@ -12450,7 +12450,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
 					"patching_rect" : [ 1621.793478190898895, 565.0, 147.0, 22.0 ],
-					"text" : "sp_click_n_speed.maxpat"
+					"text" : "sp_click_n_speed"
 				}
 
 			}
@@ -19111,56 +19111,56 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "sp_click_n_speed.maxpat",
+				"name" : "sp_click_n_speed",
 				"bootpath" : "~/Dropbox/Pjusk skisser/MaxMSP/Patch_Rune/Final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "sp_count_n_swing.maxpat",
+				"name" : "sp_count_n_swing",
 				"bootpath" : "~/Dropbox/Pjusk skisser/MaxMSP/Patch_Rune/Final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "sp_randomize_steps.maxpat",
+				"name" : "sp_randomize_steps",
 				"bootpath" : "~/Dropbox/Pjusk skisser/MaxMSP/Patch_Rune/Final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "sp_waveform_modes.maxpat",
+				"name" : "sp_waveform_modes",
 				"bootpath" : "~/Dropbox/Pjusk skisser/MaxMSP/Patch_Rune/Final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "sp_sample_startpoint.maxpat",
+				"name" : "sp_sample_startpoint",
 				"bootpath" : "~/Dropbox/Pjusk skisser/MaxMSP/Patch_Rune/Final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "sp_control_playhead.maxpat",
+				"name" : "sp_control_playhead",
 				"bootpath" : "~/Dropbox/Pjusk skisser/MaxMSP/Patch_Rune/Final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "sp_sample_endpoint.maxpat",
+				"name" : "sp_sample_endpoint",
 				"bootpath" : "~/Dropbox/Pjusk skisser/MaxMSP/Patch_Rune/Final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "sp_sample_play_control.maxpat",
+				"name" : "sp_sample_play_control",
 				"bootpath" : "~/Dropbox/Pjusk skisser/MaxMSP/Patch_Rune/Final_project/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
